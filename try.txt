@@ -1,1 +1,2 @@
 sai i created repo in your github account and also created file called try.txt ,writted something in that file
+exploring conflict
